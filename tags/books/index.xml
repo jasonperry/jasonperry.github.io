@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>books on Stuff I Thought About Or Tried To Do</title>
+    <link>http://jasonperry.github.io/tags/books/</link>
+    <description>Recent content in books on Stuff I Thought About Or Tried To Do</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Feb 2023 00:00:00 -0600</lastBuildDate><atom:link href="http://jasonperry.github.io/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gracián&#39;s Proverbial Wisdom Book (with download)</title>
+      <link>http://jasonperry.github.io/posts/gracian-wisdom/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 -0600</pubDate>
+      
+      <guid>http://jasonperry.github.io/posts/gracian-wisdom/</guid>
+      <description>A work in the wisdom literature genre that deserves to be more widely known is Spanish philosopher Balthasar Gracián&amp;rsquo;s 1647 Oráculo Manual, AKA The Art of Worldly Wisdom. It consists of 300 numbered paragraphs, each starting with a very short proverbial saying and then explaining some insight about human nature and how to get on in the world. As the title suggests, it is definitely on the pragmatic side, with surprisingly few expressions of traditional piety, especially considering that Gracián was a Jesuit.</description>
+    </item>
+    
+  </channel>
+</rss>
